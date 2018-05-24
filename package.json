@@ -1,0 +1,12 @@
+{
+  "name": "learn-travis-13srax",
+  "description": "Simple Travis-CI check for JSHint (Code Linting)",
+  "author": "My love d",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  },
+  "scripts": {
+    "test": "jshint hellod9.js"
+  }
+}
